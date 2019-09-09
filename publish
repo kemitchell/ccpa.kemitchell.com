@@ -1,2 +1,2 @@
 make
-scp index.html ccpa.kemitchell.com:/var/www/ccpa.kemitchell.com/
+scp $(git ls-files | fgrep -v public) ccpa.kemitchell.com:/var/www/ccpa.kemitchell.com/
