@@ -1,0 +1,19 @@
+.right {
+  background-color: rgba(0, 0, 255, 0.2);
+}
+
+.disclosure {
+  background-color: rgba(0, 255, 0, 0.2);
+}
+
+.highlight {
+  background-color: rgba(255, 255, 0, 0.2);
+}
+
+.obligation {
+  background-color: rgba(255, 0, 255, 0.2);
+}
+
+.action {
+  background-color: rgba(255, 0, 0, 0.2);
+}
