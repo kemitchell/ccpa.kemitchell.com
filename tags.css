@@ -17,3 +17,17 @@
 .action {
   background-color: rgba(255, 0, 0, 0.2);
 }
+
+.right:after, .disclosure:after, .action:after {
+  position: absolute;
+  left: 102%;
+  top: 0;
+  color: #777;
+}
+
+.right:after { content: 'right'; }
+
+.disclosure:after { content: 'disclosure'; }
+
+.action:after { content: 'action'; }
+
