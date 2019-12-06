@@ -25,9 +25,9 @@
   color: #777;
 }
 
-.right:after { content: 'right'; }
+.right:after { content: '#right'; }
 
-.disclosure:after { content: 'disclosure'; }
+.disclosure:after { content: '#disclosure'; }
 
-.action:after { content: 'action'; }
+.action:after { content: '#action'; }
 
