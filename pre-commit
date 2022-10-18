@@ -1,0 +1,2 @@
+#!/bin/sh
+tidy -config tidy.config index.html | sponge index.html
