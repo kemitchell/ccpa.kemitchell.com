@@ -1,2 +1,2 @@
-make
-scp index.html tags.css *.pdf ccpa.kemitchell.com:/var/www/ccpa.kemitchell.com/
+#!/bin/sh
+scp index.html tags.css ./*.pdf ccpa.kemitchell.com:/var/www/ccpa.kemitchell.com/
